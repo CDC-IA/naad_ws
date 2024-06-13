@@ -1,0 +1,3 @@
+[submodule "src/senai_models"]
+	path = src/senai_models
+	url = https://github.com/CDC-IA/senai_models.git
