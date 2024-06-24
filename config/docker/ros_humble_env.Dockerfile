@@ -16,7 +16,8 @@ FROM ros:humble-ros-core as base_image
         ros-humble-ros-gz-bridge \
         git \
         python3-colcon-common-extensions \
-        python3-setuptools && \
+        python3-setuptools \
+        xsltproc && \
         apt-get clean
 
     WORKDIR /home
