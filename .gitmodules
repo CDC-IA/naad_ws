@@ -2,3 +2,6 @@
 	path = src/senai_models
 	url = https://github.com/CDC-IA/senai_models.git
 	branch = humble
+[submodule "src/sim_ros2_interface"]
+	path = src/sim_ros2_interface
+	url = https://github.com/CoppeliaRobotics/simROS2.git
