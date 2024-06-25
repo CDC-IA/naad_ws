@@ -9,6 +9,7 @@ mkdir Downloads
 cd Downloads
 #wget 
 #tar -xvf 
+pip install xmlschema
 
 # Source and build custom packages
 coppelia_text="# Setting COPPELIASIM
