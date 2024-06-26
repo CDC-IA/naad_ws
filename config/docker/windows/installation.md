@@ -55,13 +55,13 @@ terminar!!!!
 
 ### Visual Studio Community 2019
 
-Baixe o Visual Studio Community do (https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16&src=myvs&utm_medium=microsoft&utm_source=my.visualstudio.com&utm_campaign=download&utm_content=vs+community+2019)[link]
+Baixe o Visual Studio Community do [link](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16&src=myvs&utm_medium=microsoft&utm_source=my.visualstudio.com&utm_campaign=download&utm_content=vs+community+2019)
 
 Verifique no processo de instalação se a caixa "Desktop development with C++" está ativado.
 
 ### OpenCV 
 
-Baixe o OpenCv do (https://opencv.org/releases/)[link] e durante a instalação coloque em C:\opencv
+Baixe o OpenCv do [link](https://opencv.org/releases/) e durante a instalação coloque em C:\opencv
 
 ### Robot Operating System (ROS)
 
@@ -76,7 +76,7 @@ choco upgrade ros-humble-desktop -y --execution-timeout=0 --pre
 
 ### Coppelia Sim
 
-Baixe o Coppelia Sim edu do (https://www.coppeliarobotics.com)[link]
+Baixe o Coppelia Sim edu do [link](https://www.coppeliarobotics.com)
 
 No terminal com privilégios de administrador: 
 
