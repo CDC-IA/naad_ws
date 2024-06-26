@@ -104,17 +104,19 @@ b2 toolset=msvc
 
 setx /m BOOST_ROOT "C:\boost\boost_1_78_0"
 setx /m BOOST_LIBRARYDIR "C:\boost\boost_1_78_0\stage\lib"
+
+pip install pyzmq cbor2
 ```
 
 ### Configurações finais
 
-adicione no PATH os caminhos:
+Adicione no PATH do windows os caminhos:
 
 - C:\Program Files\OpenSSL-Win64\bin\
 - C:\opencv\x64\vc16\bin
 - C:\xmllint\bin
 
-## Criando o workspace
+## Criando o workspace do ROS2
 
 Abra o terminal "x64 Native Tools Command Prompt for VS 2019" com privilégios de adminstrador:
 
