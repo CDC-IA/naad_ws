@@ -5,6 +5,8 @@
 [submodule "src/sim_ros2_interface"]
 	path = src/sim_ros2_interface
 	url = https://github.com/CDC-IA/simROS2.git
+	branch = master
 [submodule "src/senai_controls"]
 	path = src/senai_controls
 	url = https://github.com/CDC-IA/senai_controls.git
+	branch = humble-py
